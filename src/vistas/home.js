@@ -11,6 +11,7 @@ export const home = {
         document.querySelector('#usuarios').innerHTML = pedidos.template
         document.querySelector('#camareros').innerHTML = tablaPedidos.template
         pedidos.script()
+        tablaPedidos.script()
     }
 
 }
