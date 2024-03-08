@@ -1,6 +1,6 @@
 export const bd = [
     {
-      id: 1,
+      id: 3,
       nombre: "Mahou Cinco Estrellas",
       tipo: "Lager",
       origen: "Madrid",
@@ -8,7 +8,7 @@ export const bd = [
       imagen: "https://www.mahou.es/wp-content/themes/mahou_v2/template-contents/mahou-familia/dist/images/Botella_Mahou_5_Estrellas.png"
     },
     {
-      id: 2,
+      id: 22,
       nombre: "Estrella Galicia",
       tipo: "Lager",
       origen: "Galicia",
@@ -16,7 +16,7 @@ export const bd = [
       imagen: "https://cdn.shopify.com/s/files/1/0271/8158/0388/products/estrella-galicia-escerveza-3.jpg?v=1648893181"
     },
     {
-      id: 3,
+      id: 33,
       nombre: "Alhambra Reserva 1925",
       tipo: "Lager",
       origen: "Granada",
@@ -24,7 +24,7 @@ export const bd = [
       imagen: "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202204/04/00118602800916____3__600x600.jpg"
     },
     {
-      id: 4,
+      id: 34,
       nombre: "San Miguel Especial",
       tipo: "Lager",
       origen: "Barcelona",
@@ -32,7 +32,7 @@ export const bd = [
       imagen: "https://www.sanmiguel.com/es/wp-content/uploads/sites/2/2021/01/san-miguel-gluten-free-4.png"
     },
     {
-      id: 5,
+      id: 35,
       nombre: "Damm Estrella",
       tipo: "Lager",
       origen: "Barcelona",
